@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![profile](https://github.com/standardgalactic/standardgalactic/blob/main/randomizer.gif)
+
 <img src="https://github.com/standardgalactic/standardgalactic/blob/main/home.png" width="450">
 
 <p align="center">
