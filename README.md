@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+<img src="https://github.com/standardgalactic/standardgalactic/blob/main/home.png" width="450">
+
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
